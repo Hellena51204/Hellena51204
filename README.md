@@ -9,9 +9,9 @@
 <br/>
 
 <!-- PHẦN 2: THÔNG TIN CÁ NHÂN -->
-💼 I’m currently working on **Honda Motorcycle Sales App** (using Laravel & Flutter).<br>
-🏃‍♂️ I love playing tactical games and running for fitness at Cầu Giấy Park.<br>
-🚀 Fun fact: I have big ambitions for my future and a huge passion for customizing mechanical keyboards!
+💼 I’m currently focusing on developing creative mobile and web applications.<br>
+🎨 I value freedom in my work and love exploring new ideas to bring imagination into reality.<br>
+🚀 Fun fact: I have big ambitions for my future and a deep passion for creative problem-solving!
 
 <br/>
 
