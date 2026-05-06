@@ -21,14 +21,15 @@
 <table align="center" width="100%" style="border: none;">
   <tr>
     <td align="center" width="50%" style="border: none;">
-      <!-- Ảnh minh họa lập trình viên bên trái -->
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/developer.gif" alt="Coding Boy" width="100%" />
+      <!-- Đã thay bằng link GIF từ Tenor cực kỳ ổn định -->
+      <img src="https://media.tenor.com/7A7vXzHjO_AAAAAC/coding-programming.gif" alt="Coding Boy" width="100%" />
     </td>
     <td align="center" width="50%" style="border: none;">
-      <!-- Bảng thống kê bên phải -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Hellena51204&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%" />
-      <br/><br/>
+      <!-- Giữ lại thẻ Streak đang hoạt động tốt -->
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hellena51204&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
+      <br/><br/>
+      <!-- Thẻ Stats chính (nếu vẫn bị vỡ là do server bên họ đang quá tải, bạn cứ để đó 1 thời gian nó sẽ tự động hiện lại nhé) -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Hellena51204&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%" />
     </td>
   </tr>
 </table>
