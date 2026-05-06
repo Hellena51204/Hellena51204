@@ -1,12 +1,12 @@
 # Hi, 👋 I'm Bảo Khang (Hellenas1204)
 
-### An enthusiastic and ambitious Mobile & Web Developer
-
-- 🔭 I’m currently working on: **Honda Motorcycle Sales App** (Laravel & Flutter)
-- 🌱 I’m currently learning: **Firebase and Google Cloud Console**
-- ⚡ Fun fact: I love customizing **mechanical keyboards** and playing **Honkai: Star Rail**
+### 🚀 An enthusiastic and ambitious Mobile & Web Developer
+*Sinh viên Đại học tại Hà Nội - Chuyên về Flutter & Laravel*
 
 ---
+
+### 🔭 Project Highlights
+- **[Honda Motorcycle Sales App](https://github.com/Hellenas1204/Honda-Motorbike):** Hệ thống quản lý và bán xe máy Honda (Sử dụng Laravel & Flutter).
 
 ### 🛠 Languages and Tools:
 <p align="left">
@@ -15,8 +15,12 @@
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
+### ⚡ Interests & Fun Facts:
+- 🎮 Đam mê tactical & gacha games: **Honkai: Star Rail**, **Teamfight Tactics**.
+- ⌨️ Sở thích: Custom bàn phím cơ (Switch MMD Lavender, Cream V4).
+- 🏃‍♂️ Đang thực hiện chế độ tập luyện tại Công viên Cầu Giấy.
 
 ---
 
